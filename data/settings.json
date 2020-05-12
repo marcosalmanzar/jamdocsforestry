@@ -1,8 +1,12 @@
 {
   "sidebar": [
     {
-      "section": "Introduction",
+      "section": "Introduction modificada por mi",
       "topics": [
+        {
+          "title": "Vuelve el started 2",
+          "slug": ""
+        },
         {
           "title": "Getting started",
           "slug": "getting-started"
